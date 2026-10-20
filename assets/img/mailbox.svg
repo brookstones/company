@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 520" role="img" aria-labelledby="mailboxTitle mailboxDesc">
+  <title id="mailboxTitle">A friendly cartoon mailbox</title>
+  <desc id="mailboxDesc">A smiling coral mailbox with a yellow flag, a floating envelope, flowers, and a bright sky.</desc>
+
+  <!-- Background -->
+  <path d="M87 224C77 128 166 50 286 46c114-4 230 57 248 161 18 104-52 207-159 235-104 27-214-4-259-94-23-47-22-72-29-124Z" fill="#EAF8FD" stroke="#252A34" stroke-width="4"/>
+  <circle cx="506" cy="110" r="55" fill="#FFD700" stroke="#252A34" stroke-width="4"/>
+  <path d="M506 72v76M468 110h76" stroke="#FFF8E7" stroke-width="7" stroke-linecap="round" opacity=".75"/>
+  <path d="M115 156c14-17 29-17 43 0s29 17 43 0" fill="none" stroke="#87CEEB" stroke-width="5" stroke-linecap="round"/>
+  <path d="m166 318 7 19 20 1-16 12 5 20-16-11-17 11 5-20-15-12 20-1Z" fill="#FFD700" stroke="#252A34" stroke-width="3.5" stroke-linejoin="round"/>
+  <circle cx="520" cy="265" r="7" fill="#FF6F61" stroke="#252A34" stroke-width="3"/>
+
+  <!-- Ground -->
+  <path d="M70 444c54-22 106-22 160 0 50-20 104-22 156-2 50-20 102-19 156 2v76H70Z" fill="#6FBF8B" stroke="#252A34" stroke-width="4"/>
+  <path d="M106 451c7-23 18-31 31-34M534 455c-5-21-16-32-30-37" fill="none" stroke="#252A34" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="137" cy="411" r="12" fill="#FFD700" stroke="#252A34" stroke-width="3.5"/>
+  <circle cx="137" cy="411" r="4" fill="#FF6F61"/>
+  <path d="M137 423v24M137 437c-9-4-14-1-18 5M137 444c8-4 14-1 18 5" fill="none" stroke="#252A34" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="527" cy="416" r="10" fill="#FF6F61" stroke="#252A34" stroke-width="3.5"/>
+  <path d="M527 426v21" stroke="#252A34" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Flying envelope -->
+  <g transform="translate(398 47) rotate(9)">
+    <rect width="158" height="104" rx="13" fill="#FFFFFF" stroke="#252A34" stroke-width="5"/>
+    <path d="m10 17 69 52 69-52" fill="none" stroke="#FF6F61" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m79 49 6 17 18 1-15 11 5 18-14-10-15 10 5-18-14-11 18-1Z" fill="#FFD700" stroke="#252A34" stroke-width="2.7" stroke-linejoin="round"/>
+  </g>
+  <path d="M354 90c-15 2-26 8-35 19M367 117c-12 4-20 10-25 19" fill="none" stroke="#252A34" stroke-width="4" stroke-linecap="round" opacity=".55"/>
+
+  <!-- Mailbox -->
+  <path d="M295 281h43v141h-43Z" fill="#FFD700" stroke="#252A34" stroke-width="5"/>
+  <path d="M298 336l37 34M335 336l-37 34" stroke="#252A34" stroke-width="3.5" stroke-linecap="round" opacity=".55"/>
+  <path d="M176 286v-68c0-66 59-118 135-118s135 52 135 118v68Z" fill="#FF6F61" stroke="#252A34" stroke-width="6" stroke-linejoin="round"/>
+  <rect x="165" y="267" width="292" height="35" rx="17.5" fill="#FFD700" stroke="#252A34" stroke-width="5"/>
+  <path d="M215 238c3-42 41-70 96-70 42 0 76 14 93 39" fill="none" stroke="#252A34" stroke-width="4" stroke-linecap="round" opacity=".4"/>
+  <rect x="354" y="207" width="61" height="17" rx="8.5" fill="#252A34"/>
+  <!-- flag -->
+  <rect x="447" y="133" width="12" height="137" rx="6" fill="#252A34"/>
+  <path d="M458 144c42-7 67 3 82 22-19 15-44 24-82 18Z" fill="#87CEEB" stroke="#252A34" stroke-width="5" stroke-linejoin="round"/>
+  <!-- face -->
+  <circle cx="276" cy="191" r="7" fill="#252A34"/>
+  <circle cx="349" cy="191" r="7" fill="#252A34"/>
+  <path d="M277 218c20 23 52 23 72 0" fill="none" stroke="#252A34" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="243" cy="216" r="12" fill="#FFA69E" opacity=".9"/>
+  <circle cx="382" cy="216" r="12" fill="#FFA69E" opacity=".9"/>
+  <path d="m312 157 5 14 15 1-12 9 4 14-12-8-12 8 4-14-11-9 15-1Z" fill="#FFF8E7" stroke="#252A34" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Tiny paper plane -->
+  <path d="m157 234 46-22-16 42-11-12Z" fill="#FFFFFF" stroke="#252A34" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m176 242 6-13" stroke="#252A34" stroke-width="3" stroke-linecap="round"/>
+  <path d="M157 255c-8 6-13 13-15 23" fill="none" stroke="#252A34" stroke-width="3" stroke-linecap="round" opacity=".5"/>
+</svg>

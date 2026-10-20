@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">SAGE Marketing star mascot</title>
+  <path d="M46.2 10.6c5.9-5.1 13.8-4.6 17.4 1.2-5.4 5.1-12.4 5.2-17.4-1.2Z" fill="#6FBF8B" stroke="#252A34" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M36 8.5 43.7 25l18 2.1-13 12.5 3.5 17.8L36 49l-16.2 8.4 3.5-17.8-13-12.5 18-2.1L36 8.5Z" fill="#FFD700" stroke="#252A34" stroke-width="3.6" stroke-linejoin="round"/>
+  <circle cx="31" cy="33.5" r="2.2" fill="#252A34"/>
+  <circle cx="41.5" cy="33.5" r="2.2" fill="#252A34"/>
+  <path d="M31.1 40.1c2.8 3.1 7.1 3.1 9.8 0" fill="none" stroke="#252A34" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="24.4" cy="38.8" r="3.1" fill="#FF6F61" opacity=".85"/>
+  <circle cx="48.1" cy="38.8" r="3.1" fill="#FF6F61" opacity=".85"/>
+</svg>

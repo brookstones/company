@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 600" role="img" aria-labelledby="rocketTitle rocketDesc">
+  <title id="rocketTitle">A cartoon rocket taking off</title>
+  <desc id="rocketDesc">A cream and coral rocket with yellow fins and a bright flame blasts past stars and a ringed planet.</desc>
+
+  <!-- Background -->
+  <path d="M91 238C80 136 173 54 289 49c108-5 223 54 244 158 22 110-48 223-158 257-101 31-217 0-260-94-24-52-17-76-24-132Z" fill="#FFF8E7" stroke="#252A34" stroke-width="4"/>
+  <circle cx="118" cy="122" r="44" fill="#FFD700" stroke="#252A34" stroke-width="4"/>
+  <circle cx="104" cy="108" r="10" fill="#FFF8E7" opacity=".9"/>
+  <ellipse cx="517" cy="132" rx="54" ry="25" fill="none" stroke="#252A34" stroke-width="5" transform="rotate(-18 517 132)"/>
+  <circle cx="517" cy="132" r="35" fill="#FF6F61" stroke="#252A34" stroke-width="4"/>
+  <path d="M492 153c18 8 39 6 54-8" fill="none" stroke="#252A34" stroke-width="3" stroke-linecap="round" opacity=".45"/>
+  <path d="M172 164c12-14 24-14 36 0M204 164c12-14 24-14 36 0" fill="none" stroke="#87CEEB" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="315" cy="307" rx="231" ry="135" fill="none" stroke="#252A34" stroke-width="3" stroke-dasharray="4 14" opacity=".45" transform="rotate(-14 315 307)"/>
+
+  <!-- Stars -->
+  <path d="m486 240 7 20 21 1-16 13 5 21-18-11-18 11 6-21-17-13 22-1Z" fill="#87CEEB" stroke="#252A34" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="m153 338 6 17 18 1-14 11 4 18-14-9-15 9 4-18-13-11 18-1Z" fill="#FFD700" stroke="#252A34" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="505" cy="355" r="7" fill="#FF6F61" stroke="#252A34" stroke-width="3"/>
+  <circle cx="177" cy="257" r="5" fill="#FFD700" stroke="#252A34" stroke-width="2.5"/>
+  <circle cx="474" cy="422" r="5" fill="#87CEEB" stroke="#252A34" stroke-width="2.5"/>
+
+  <!-- Rocket -->
+  <g transform="rotate(7 310 310)">
+    <!-- flame -->
+    <path d="M293 401c-19 36-22 76 17 126 39-50 36-90 17-126Z" fill="#FF6F61" stroke="#252A34" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M303 415c-10 29-7 58 7 84 14-26 17-55 7-84Z" fill="#FFD700" stroke="#252A34" stroke-width="4" stroke-linejoin="round"/>
+    <!-- fins -->
+    <path d="M257 293c-36 14-55 51-46 99 29-14 50-37 63-64Z" fill="#FFD700" stroke="#252A34" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M363 293c36 14 55 51 46 99-29-14-50-37-63-64Z" fill="#87CEEB" stroke="#252A34" stroke-width="5" stroke-linejoin="round"/>
+    <!-- engine -->
+    <rect x="274" y="354" width="72" height="41" rx="14" fill="#87CEEB" stroke="#252A34" stroke-width="5"/>
+    <path d="M288 370h44" stroke="#252A34" stroke-width="4" stroke-linecap="round" opacity=".6"/>
+    <!-- body -->
+    <path d="M310 92c43 27 74 96 74 207 0 40-24 68-74 68s-74-28-74-68c0-111 31-180 74-207Z" fill="#FFF8E7" stroke="#252A34" stroke-width="6"/>
+    <path d="M310 92c20 13 38 37 49 80l-98 1c11-44 29-68 49-81Z" fill="#FF6F61" stroke="#252A34" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M239 314c24 13 118 13 142 0l1 27c-25 17-119 17-144 0Z" fill="#FFD700" stroke="#252A34" stroke-width="4"/>
+    <!-- window -->
+    <circle cx="310" cy="236" r="55" fill="#87CEEB" stroke="#252A34" stroke-width="6"/>
+    <circle cx="310" cy="236" r="38" fill="#EAF8FD" stroke="#252A34" stroke-width="3"/>
+    <path d="M290 220c7-9 17-13 28-14" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+    <!-- details -->
+    <circle cx="266" cy="335" r="4" fill="#252A34"/>
+    <circle cx="354" cy="335" r="4" fill="#252A34"/>
+    <path d="M294 346h32" stroke="#252A34" stroke-width="3" stroke-linecap="round" opacity=".45"/>
+    <path d="m284 174 5 14 15 1-12 9 4 15-12-8-13 8 4-15-11-9 15-1Z" fill="#FFD700" stroke="#252A34" stroke-width="2.5" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Clouds and movement -->
+  <path d="M115 448c-23 0-40-17-40-37 0-19 14-35 33-37 7-27 30-45 58-45 31 0 57 23 61 53 24 1 42 20 42 43 0 25-20 45-46 45H115Z" fill="#FFFFFF" stroke="#252A34" stroke-width="4"/>
+  <path d="M439 481c-20 0-36-15-36-34 0-18 14-33 32-34 6-24 27-41 52-41 27 0 50 20 55 46 21 1 37 18 37 39 0 22-18 40-40 40H439Z" fill="#FFFFFF" stroke="#252A34" stroke-width="4"/>
+  <path d="M203 429c-9 16-7 31 7 47M235 427c-9 16-7 31 7 47" fill="none" stroke="#252A34" stroke-width="4" stroke-linecap="round" opacity=".55"/>
+  <path d="M179 485c47 22 192 22 241 0" fill="none" stroke="#252A34" stroke-width="4" stroke-linecap="round" opacity=".3"/>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 560" role="img" aria-labelledby="heroArtTitle heroArtDesc">
+  <title id="heroArtTitle">A happy cartoon megaphone</title>
+  <desc id="heroArtDesc">A coral megaphone with a smiling face, bright sound waves, speech bubbles, and stars on a playful cream blob.</desc>
+
+  <!-- Background scene -->
+  <path d="M97 220C82 125 168 51 282 44c110-7 229 52 252 155 23 108-44 224-155 259-96 30-207 4-254-82-27-50-19-98-28-156Z" fill="#FFF8E7" stroke="#252A34" stroke-width="4"/>
+  <circle cx="125" cy="119" r="53" fill="#FFD700" stroke="#252A34" stroke-width="4"/>
+  <path d="M125 83v72M89 119h72" stroke="#FFF8E7" stroke-width="7" stroke-linecap="round" opacity=".75"/>
+  <path d="M84 345c24-18 48-18 72 0s48 18 72 0" fill="none" stroke="#252A34" stroke-width="4" stroke-linecap="round"/>
+  <path d="M500 388c22-14 43-14 65 0" fill="none" stroke="#FF6F61" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="517" cy="325" r="7" fill="#87CEEB" stroke="#252A34" stroke-width="3"/>
+  <circle cx="552" cy="356" r="5" fill="#FF6F61" stroke="#252A34" stroke-width="2.5"/>
+  <circle cx="163" cy="454" r="6" fill="#FFD700" stroke="#252A34" stroke-width="3"/>
+  <circle cx="202" cy="477" r="4" fill="#87CEEB" stroke="#252A34" stroke-width="2.5"/>
+
+  <!-- Big star -->
+  <path d="m514 82 10 29 30 2-23 20 7 30-24-16-27 16 9-30-24-20 31-2Z" fill="#87CEEB" stroke="#252A34" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m550 215 7 18 19 1-15 12 5 19-16-10-17 10 5-19-15-12 20-1Z" fill="#FFD700" stroke="#252A34" stroke-width="3.5" stroke-linejoin="round"/>
+
+  <!-- Speech bubble -->
+  <path d="M74 73c0-23 20-40 47-40h116c27 0 47 17 47 40v84c0 23-20 40-47 40h-59l-41 35 7-35h-23c-27 0-47-17-47-40Z" fill="#FFFFFF" stroke="#252A34" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="165" y="60" width="22" height="70" rx="11" fill="#FF6F61" stroke="#252A34" stroke-width="4"/>
+  <circle cx="176" cy="157" r="12" fill="#FFD700" stroke="#252A34" stroke-width="4"/>
+
+  <!-- Sound waves -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M507 184c31 34 31 123 0 157" stroke="#252A34" stroke-width="13"/>
+    <path d="M507 184c31 34 31 123 0 157" stroke="#FFD700" stroke-width="6"/>
+    <path d="M535 168c43 48 43 142 0 190" stroke="#252A34" stroke-width="11"/>
+    <path d="M535 168c43 48 43 142 0 190" stroke="#87CEEB" stroke-width="5"/>
+    <path d="M561 151c54 61 54 169 0 230" stroke="#252A34" stroke-width="9"/>
+    <path d="M561 151c54 61 54 169 0 230" stroke="#FF6F61" stroke-width="4"/>
+  </g>
+
+  <!-- Megaphone -->
+  <ellipse cx="323" cy="468" rx="155" ry="21" fill="#252A34" opacity=".12"/>
+  <g transform="rotate(-7 330 285)">
+    <!-- handle -->
+    <path d="M281 286h82v99c0 25-20 45-45 45h-2c-25 0-45-20-45-45v-99Z" fill="#87CEEB" stroke="#252A34" stroke-width="5"/>
+    <path d="M290 329h65M290 354h65" stroke="#252A34" stroke-width="4" stroke-linecap="round" opacity=".75"/>
+    <!-- back cap -->
+    <rect x="201" y="214" width="79" height="90" rx="28" fill="#FFD700" stroke="#252A34" stroke-width="5"/>
+    <path d="M225 233v52" stroke="#252A34" stroke-width="4" stroke-linecap="round" opacity=".65"/>
+    <!-- horn -->
+    <path d="M258 236 430 148c23-11 41 3 41 28v150c0 25-18 39-41 28l-172-88c-23-12-23-18 0-30Z" fill="#FF6F61" stroke="#252A34" stroke-width="5" stroke-linejoin="round"/>
+    <rect x="446" y="135" width="42" height="229" rx="21" fill="#FFD700" stroke="#252A34" stroke-width="5"/>
+    <path d="M467 159v181" stroke="#252A34" stroke-width="3" stroke-linecap="round" opacity=".45"/>
+    <!-- face -->
+    <circle cx="333" cy="250" r="6" fill="#252A34"/>
+    <circle cx="376" cy="270" r="6" fill="#252A34"/>
+    <path d="M327 287c12 11 31 16 47 8" fill="none" stroke="#252A34" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="313" cy="278" r="9" fill="#FFA69E" opacity=".9"/>
+    <circle cx="397" cy="298" r="9" fill="#FFA69E" opacity=".9"/>
+    <path d="m298 195 7 18 19 1-15 12 5 18-16-10-17 10 5-18-15-12 20-1Z" fill="#87CEEB" stroke="#252A34" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Extra doodles -->
+  <path d="M171 391c-11-11-25-11-36 0" fill="none" stroke="#252A34" stroke-width="4" stroke-linecap="round"/>
+  <path d="m522 431 4 12 13 1-10 8 3 13-11-7-11 7 3-13-10-8 13-1Z" fill="#87CEEB" stroke="#252A34" stroke-width="3" stroke-linejoin="round"/>
+</svg>
